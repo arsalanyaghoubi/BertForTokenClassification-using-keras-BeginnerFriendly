@@ -1,6 +1,3 @@
 # BertForTokenClassification-using-keras
 # Beginner friendly repo:
-It took me some time to come to a comprehensible and tidy model of Bert for token classification using keras;
-I decided to upload it to my github so that it may be helpful to you to learn Bert from scratch.
-Basic information on Bert and transformers can be find in my other repostory on BertForSequenceClassification which ,definitely, worth a glimps.
-in my code I have written some detailed and basic informations regarding  each line to make the process of learning like a piece of cake.
+It took me a while to create a clean and understandable Bert model for token classification using Keras. I've decided to share it on my GitHub repository, hoping it will assist you in learning Bert from the ground up. You can also find fundamental information about Bert and transformers in my other repository, specifically in the "BertForSequenceClassification" section, which is definitely worth checking out. In my code, I've provided detailed explanations for each line to make the learning process as easy as pie.
